@@ -1,0 +1,10 @@
+Yellow: f1b631
+Darker Yellow: e5a616
+Lt Grey: c3c3c5
+Dk Grey: 676f77
+Darker Grey: 4a5056
+Darkest Grey: 3d4247
+Dark Purple: 363a53
+Slightly less dark purple: 686a77
+Even less dark purple: 7f818d
+Least Dark purple: 9b9eb5
